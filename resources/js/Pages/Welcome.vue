@@ -2,7 +2,7 @@
 import {Head, Link} from '@inertiajs/vue3';
 
 defineProps({
-    profile: Object
+    profile: String
 })
 
 </script>
@@ -297,17 +297,17 @@ defineProps({
             <p class="font-normal text-gray-500 text-xs md:text-base mb-10 md:mb-20">Below is a summary of the places I studied</p>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
-                <img src="assets/image/brand-1.png" alt="Image">
+                <img src="" alt="Image">
 
-                <img src="assets/image/brand-2.png" alt="Image">
+                <img src="" alt="Image">
 
-                <img src="assets/image/brand-3.png" alt="Image">
+                <img src="" alt="Image">
 
-                <img src="assets/image/brand-4.png" alt="Image">
+                <img src="" alt="Image">
 
-                <img src="assets/image/brand-5.png" alt="Image">
+                <img src="" alt="Image">
 
-                <img src="assets/image/brand-6.png" alt="Image">
+                <img src="" alt="Image">
             </div>
 
         </div>
