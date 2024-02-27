@@ -3,6 +3,7 @@ name: Profile-Page
 environments:
   production:
     memory: 1024
+    domain: bartoszpiechowiak.com
     cli-memory: 512
     runtime: 'php-8.3:al2'
     build:

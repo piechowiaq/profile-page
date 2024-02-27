@@ -6,11 +6,13 @@
         @vite('resources/js/app.js')
         @inertiaHead
 
-        <title>Laravel</title>
+        <title>BP Profile Page</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
+        <link rel="icon" type="image/png" href="https://bartosz-piechowiak-profile-page.s3.amazonaws.com/public/icons8-trophy-96.png">
+
 
         <!-- Styles -->
         <style>
